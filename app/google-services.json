@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464612709063",
+    "firebase_url": "https://random-chat-20af9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "random-chat-20af9",
+    "storage_bucket": "random-chat-20af9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464612709063:android:2cd368054b6651e130e4e2",
+        "android_client_info": {
+          "package_name": "com.devjs.randomchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464612709063-0tlc9flpd3iqc57f5nnd0k860lpmuhd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFl8Lmq4PSoC9z8x75iEDiJwDLN4lZOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464612709063-0tlc9flpd3iqc57f5nnd0k860lpmuhd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Chat</string>
+    <string name="random_chatting">랜덤 채팅</string>
+    <string name="start_chat">채팅 시작</string>
+    <string name="send">전송</string>
+    <string name="other">상대방</string>
+    <string name="me">나</string>
+</resources>
